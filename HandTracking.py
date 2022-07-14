@@ -8,5 +8,11 @@ while (capture.isOpened()):
     if (cv2.waitKey(1) == ord('s')):
         break
 
+
+
+
+
+        
+
 capture.release()
 cv2.destroyAllWindows()
