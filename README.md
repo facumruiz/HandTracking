@@ -4,7 +4,4 @@
 | ![Image Text](https://github.com/facumruiz/HandTracking/blob/main/docs/land_marks_results.PNG)  | ![Image Text](https://github.com/facumruiz/HandTracking/blob/main/docs/landsmarks%20code.PNG) |
 
 
-| Alineado en el centro | Alineado en el centro | Alineado en el centro |
-| :---:          |     :---:      |          :---:  |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+
