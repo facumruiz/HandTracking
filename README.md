@@ -1,17 +1,5 @@
-https://google.github.io/mediapipe/
-
-
----
-layout: default
-title: Home
-nav_order: 1
----
-
-![MediaPipe](docs/images/mediapipe_small.png)
-
---------------------------------------------------------------------------------
-
 ## Live ML anywhere
+https://google.github.io/mediapipe/
 
 [MediaPipe](https://google.github.io/mediapipe/) offers cross-platform, customizable
 ML solutions for live and streaming media.
