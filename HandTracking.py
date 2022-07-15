@@ -12,11 +12,12 @@ while (capture.isOpened()):
     ret, frame = capture.read()
     imgRGB = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
     results = hands.process(imgRGB)
-    #print(results.multi_hand_landmarks)
+    print(results.multi_hand_landmarks)
 
     if results.multi_hand_landmarks:
         for handLms in results.multi_hand_landmarks:
-            mpD.draw_landmarks(frame, handLms)
+
+            mpD.draw_landmarks(frame, handLms, mpH.HAND_CONNECTIONS)
 
 
 
