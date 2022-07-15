@@ -7,4 +7,4 @@ ML solutions for live and streaming media.
 ## ML solutions in MediaPipe
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://raw.githubusercontent.com/facumruiz/HandTracking/main/docs/hand_tracking_android_gpu_small.gif))
