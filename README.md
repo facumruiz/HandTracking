@@ -1,7 +1,7 @@
 ## HANDTRACKING
 | ![Alt Text](https://github.com/facumruiz/HandTracking/blob/main/docs/hand_tracking_3d_android_gpu.gif)   | ![Image Text](https://github.com/facumruiz/HandTracking/blob/main/docs/hand_landmarks.png) |
 | ------------- | ------------- |
-| ![Image Text](https://github.com/facumruiz/HandTracking/blob/main/docs/land_marks_results.PNG)  |  `import cv2
+| ![Image Text](https://github.com/facumruiz/HandTracking/blob/main/docs/land_marks_results.PNG)  |  ```import cv2
 import mediapipe as mp
 import time
 
@@ -32,4 +32,4 @@ while (capture.isOpened()):
 
 
 capture.release()
-cv2.destroyAllWindows() `|
+cv2.destroyAllWindows() ```|
